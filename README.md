@@ -1,2 +1,2 @@
-# pyxp
+# PyXP
 Experimentos com Python
